@@ -6,6 +6,18 @@
 * Java-script
 * Bootstrap 5
 * Базу в Photoshop и Figma, для веб-разработчика
+* Angular
+* Git
+* Gulp
+* jQuery
+* React
+* React Express
+* Redux Toolkit
+* Mobx
+* Scss(Sass)
+* Vue
+* Node
+* TypeScript
 
 <!---
 BariBurik/BariBurik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
