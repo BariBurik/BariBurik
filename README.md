@@ -19,7 +19,4 @@
 * Node
 * TypeScript
 
-<!---
-BariBurik/BariBurik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#3 Это всё, что я, пока что, знаю
