@@ -105,24 +105,28 @@
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo" />
 </div>
 
-###
-
 <h3 align="left">📌 Учебные проекты</h3>
 
 ###
 
 <p align="left">
-<b>pytorch-fashionmnist-cnn</b>
+<a href="[https://github.com/BariBurik/pytorch-fashionmnist-cnn](https://github.com/BariBurik/pytorch-fashionmnist-cnn)" target="_blank">
+  <b>pytorch-fashionmnist-cnn</b>
+</a>
 <br>
 Классификация изображений FashionMNIST на PyTorch: Linear baseline, CNN, Adam, augmentation, validation, метрики, confusion matrix и анализ ошибок.
 <br><br>
 
-<b>nlp-newsgroups-baselines</b>
+<a href="[https://github.com/BariBurik/nlp-newsgroups-baselines](https://github.com/BariBurik/nlp-newsgroups-baselines)" target="_blank">
+  <b>nlp-newsgroups-baselines</b>
+</a>
 <br>
 Классификация текстов 20 Newsgroups: CountVectorizer, TF-IDF, Logistic Regression, собственный TextVectorizer, PyTorch Dataset/DataLoader, Embedding, masked mean pooling и сравнение моделей.
 <br><br>
 
-<b>Messenger</b>
+<a href="https://github.com/BariBurik/НАЗВАНИЕ_РЕПОЗИТОРИЯ_МЕССЕНДЖЕРА" target="_blank">
+  <b>Messenger</b>
+</a>
 <br>
 FullStack-проект: Python, Django, GraphQL, WebSockets, PostgreSQL, React, TypeScript, RTK Query.
 </p>
