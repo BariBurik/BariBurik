@@ -124,7 +124,7 @@
 Классификация текстов 20 Newsgroups: CountVectorizer, TF-IDF, Logistic Regression, собственный TextVectorizer, PyTorch Dataset/DataLoader, Embedding, masked mean pooling и сравнение моделей.
 <br><br>
 
-<a href="https://github.com/BariBurik/НАЗВАНИЕ_РЕПОЗИТОРИЯ_МЕССЕНДЖЕРА" target="_blank">
+<a href="https://github.com/BariBurik/Messanger_Fullstack_Frontend" target="_blank">
   <b>Messenger</b>
 </a>
 <br>
