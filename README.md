@@ -110,14 +110,14 @@
 ###
 
 <p align="left">
-<a href="[https://github.com/BariBurik/pytorch-fashionmnist-cnn](https://github.com/BariBurik/pytorch-fashionmnist-cnn)" target="_blank">
+<a href="https://github.com/BariBurik/pytorch-fashionmnist-cnn" target="_blank">
   <b>pytorch-fashionmnist-cnn</b>
 </a>
 <br>
 Классификация изображений FashionMNIST на PyTorch: Linear baseline, CNN, Adam, augmentation, validation, метрики, confusion matrix и анализ ошибок.
 <br><br>
 
-<a href="[https://github.com/BariBurik/nlp-newsgroups-baselines](https://github.com/BariBurik/nlp-newsgroups-baselines)" target="_blank">
+<a href="https://github.com/BariBurik/nlp-newsgroups-baselines" target="_blank">
   <b>nlp-newsgroups-baselines</b>
 </a>
 <br>
